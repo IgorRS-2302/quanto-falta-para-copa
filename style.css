@@ -1,0 +1,36 @@
+body {
+  font-family: Roboto, sans-serif;
+  background: #009b3a;
+  height: 90vh;
+}
+.container-countdown {
+  margin-top: 2vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #fedd00;
+}
+
+.container-countdown h1 {
+  text-align: center;
+}
+
+#bandeira-brasil {
+  width: 300px;
+}
+
+.countdown {
+  display: flex;
+  gap: 10px;
+  font-size: 3.5rem;
+}
+
+.cups {
+  display: flex;
+  gap: 15px;
+}
+
+.cups img {
+  width: 60px;
+}
