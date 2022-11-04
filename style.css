@@ -17,13 +17,13 @@ body {
 }
 
 #bandeira-brasil {
-  width: 300px;
+  width: 200px;
 }
 
 .countdown {
   display: flex;
   gap: 10px;
-  font-size: 3.5rem;
+  font-size: 2rem;
 }
 
 .cups {
@@ -33,4 +33,8 @@ body {
 
 .cups img {
   width: 60px;
+}
+
+#audio-player {
+  padding-top: 50px;
 }
